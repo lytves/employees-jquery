@@ -1,9 +1,10 @@
 # employees-jquery
-English: Demonstration technology Javascript and XML, AJAX
+English: Demonstration technology JQuery, JSON
 
-Español: Demonstración de tecnología Javascript y XML, AJAX
+Español: Demonstración de tecnología JQuery, JSON
 
-Русский: Демонстрация технологии Javascript и XML, AJAX
+Русский: Демонстрация технологии JQuery, JSON
 
-**Demo**: https://lytves.github.io/employees-ajax/
+**Demo**: https://lytves.github.io/employees-jquery/catalogo.html
 
+![alt tag](https://lytves.github.io/employees-jquery/employees-jquery.png)
