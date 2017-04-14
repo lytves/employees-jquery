@@ -1,0 +1,31 @@
+{
+   "departamentos": {
+      "departamento": [
+         {
+            "nombre": "Direccion",
+            "manager": "20",
+            "_id": "1"
+         },
+         {
+            "nombre": "Planificacion",
+            "manager": "11",
+            "_id": "2"
+         },
+         {
+            "nombre": "Centro de informacion",
+            "manager": "13",
+            "_id": "3"
+         },
+         {
+            "nombre": "Sistemas de produccion",
+            "manager": "3",
+            "_id": "4"
+         },
+         {
+            "nombre": "Soporte de software",
+            "manager": "18",
+            "_id": "5"
+         }
+      ]
+   }
+}
